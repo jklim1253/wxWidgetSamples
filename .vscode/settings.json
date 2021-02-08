@@ -1,0 +1,3 @@
+{
+  "cmake.configureArgs": ["-DCMAKE_TOOLCHAIN_PATH=D:\\home\\vcpkg\\scripts\\buildsystems\\vcpkg.cmake"]
+}
